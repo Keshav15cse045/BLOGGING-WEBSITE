@@ -5,7 +5,7 @@ ASP.NET ONLINE BLOGGING WEBSITE
 <br/>
 Databse- MSSQL Server
 <br/>
-DEVELOPER- KESHAV KR JHA
+DEVELOPER- KESHAV KR JHA [keshavjha9217@gmail.com]
 <BR/>
 <BR/>
 <BR/>
